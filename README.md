@@ -44,4 +44,4 @@ GET 1-{domain:port}/getVersion/\<token\><br>
   ```
   
   
-[⬆ Voltar ao topo](#RCTVideoSync)<br>
+[⬆ Voltar ao topo](#FirmwareUpdaterLaravel)<br>
