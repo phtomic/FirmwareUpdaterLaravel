@@ -23,6 +23,12 @@ Instale todas as dependêcias
 composer install
 ```
 
+Migre o banco de dados
+```
+php artisan migrate
+```
+Após isso é só popular o banco de dados com as informações desejadas
+
 ## ☕ Usando FirmwareUpdaterLaravel
 
 Para usar FirmwareUpdaterLaravel, siga estas etapas:
