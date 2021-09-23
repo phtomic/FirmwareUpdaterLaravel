@@ -1,11 +1,12 @@
 # FirmwareUpdaterLaravel
 
-> Este front-end é feito para sincronizar dois ou mais players de vídeos conectados via socket
+> Esta Api funciona como um mediador de atualizações automáticas de Firmwares de roteadores. Um roteador com sistema linux capaz de fazer download de arquivos e armazenar conteúdo temporário em memória pode ser utilizado.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-- [X] MultiHosts (Permitir para ambos os usuários controlarem o servidor)
+- [X] Autenticação com JWT
+
 
 ## 💻 Pré-requisitos
 
@@ -15,18 +16,16 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando FirmwareUpdaterLaravel
 
-Para instalar o RCTVideoSync, siga estas etapas:
+Para instalar o FirmwareUpdaterLaravel, siga estas etapas:
 
 Instale todas as dependêcias
 ```
 composer install
 ```
 
-Instale as dependências do Backend-socketIO também
-
 ## ☕ Usando FirmwareUpdaterLaravel
 
-Para usar RCTVideoSync, siga estas etapas:
+Para usar FirmwareUpdaterLaravel, siga estas etapas:
 
 Se já fez a configuração é so rodar
 ```
